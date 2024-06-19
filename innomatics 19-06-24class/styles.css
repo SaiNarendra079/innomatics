@@ -1,0 +1,34 @@
+.parentDiv{
+  border: 2px solid blue;
+  background-color: lightblue;
+  height: 200vh;
+  margin: 20px;
+  /*position: relative; */
+}
+.childBox{
+  border: 2px solid;
+  height: 30px;
+  margin: 5px;
+}
+.childOne{
+  /*position: relative;
+  left: 20px;
+  top: 20px; */
+  background-color: yellowgreen;
+  /* position: absolute;
+  top: 20px;
+  right: 0; */
+  /* position: fixed;
+  right: 500px;
+  top: 0; */
+  position: sticky;
+  right: 0;
+  top: 30px;
+
+}
+.childTwo{
+  /*position: relative;
+  left: 20px;
+  top: 20px; */
+  background-color: rebeccapurple;
+}
