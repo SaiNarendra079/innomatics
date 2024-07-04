@@ -32,3 +32,41 @@
   top: 20px; */
   background-color: rebeccapurple;
 }
+.formcontainer{
+  display: flex;
+  flex-direction: column;
+  margin-left: 50px;
+  width: 200px;
+  justify-content: space-around;
+  align-items: center;
+}
+.user{
+  color: black;
+  font-weight: bold;
+  font-size: large;
+  font-family: 'Times New Roman', Times, serif;
+}
+.password{
+  color: black;
+  font-weight: bold;
+  font-size: large;
+  font-family: 'Times New Roman', Times, serif;
+}
+.pimg{
+  color: black;
+  font-weight: bold;
+  font-size: large;
+  font-family: 'Times New Roman', Times, serif;
+}
+.mail{
+  color: black;
+  font-weight: bold;
+  font-size: large;
+  font-family: 'Times New Roman', Times, serif;
+}
+.dob{
+  color: black;
+  font-weight: bold;
+  font-size: large;
+  font-family: 'Times New Roman', Times, serif;
+}
